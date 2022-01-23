@@ -1,0 +1,15 @@
+<package>
+	<id>com.avalon.batchfinder</id>
+	<name>BatchFinder</name>
+	<version>6.1.1</version>
+	<compatibility></compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A BatchFinder Bot</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Improved consistency of v6.1.1.</change>
+	</changelog>
+	<links></links>
+</package>

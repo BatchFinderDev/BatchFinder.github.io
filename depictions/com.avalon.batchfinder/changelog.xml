@@ -1,0 +1,14 @@
+<changelog>
+	<changes>
+		<version>6.1.1</version>
+		<change>Improved consistency of v6.1.1.</change>
+	</changes>
+	<changes>
+		<version>6.1.0</version>
+		<change>Fixed crashing issue on previous v6 versions.</change>
+	</changes>
+	<changes>
+		<version>5.3.4</version>
+		<change>Fixed NaN distance bug.</change>
+	</changes>
+</changelog>
