@@ -95,16 +95,16 @@ Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta)
 
 Package: com.udevs.bakgrunnur
-Version: 1.5.9
+Version: 1.7.9
 Architecture: iphoneos-arm
 Maintainer: udevs
-Installed-Size: 1864
-Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
-Filename: ./debs/com.udevs.bakgrunnur_1.5.9_iphoneos-arm.deb
-Size: 287774
-MD5sum: e1cb26cc52bfd0f9acc2468da9ce3116
-SHA1: 7d2f9c4e6e3a434129d45b00e1cc9f1cfa009d2b
-SHA256: 87c7ba0f7f330056f24892094eba2e490079aa26572281042f10ee133025fb7e
+Installed-Size: 1368
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
+Filename: ./debs/com.udevs.bakgrunnur_1.7.9_iphoneos-arm.deb
+Size: 251572
+MD5sum: bb2f5490bfadfc385366d8b6fcbf3e4b
+SHA1: 7f9a8616ebbc305ce6014d1271db60c02dfb6a2a
+SHA256: a94638f59dd3beb427989516196de6b0e8fe2354e4cd88263d68cf85f19ae17c
 Section: Tweaks
 Description: Truly backgrounding your apps
 Author: udevs
