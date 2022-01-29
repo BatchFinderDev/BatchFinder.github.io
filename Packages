@@ -45,16 +45,16 @@ Author: DGh0st <deeppwnage@yahoo.com>
 Name: FLEXall
 
 Package: com.rpgfarm.a-bypass
-Version: 1.4.4
+Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 784
-Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast
+Installed-Size: 848
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
 Filename: ./debs/com.rpgfarm.a-bypass.deb
-Size: 85010
-MD5sum: f5b40b59041c6e150b94db25ff0961f2
-SHA1: 4fe3962b95a13144d4610cd32bd0cf1008767ce6
-SHA256: 0cc6d6e2c33d68586b3ed44cc20f29b4dbd3242a18b79d930211a302e75daaeb
+Size: 100688
+MD5sum: e1eb6c4db0a9d111fd280896ef3a41f8
+SHA1: bad5157c3c6237fd7b9f48c53d56f021c2c78440
+SHA256: 3dcadcdebe4193115ab79ff00048df753893703e7a90b22a3b7e49246c103236
 Section: Tweaks
 Description: Super Jailbreak detection bypass!
 Author: Baw Appie <pp121324@gmail.com>
