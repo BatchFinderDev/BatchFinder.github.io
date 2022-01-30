@@ -112,6 +112,24 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Name: Bakgrunnur
 
+Package: com.udevs.vexillarius
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 136
+Filename: ./debs/com.udevs.vexillarius_0.0.3_iphoneos-arm.deb
+Size: 5472
+MD5sum: 4b89ff607885606678559d688c77d5aa
+SHA1: 8e108531b7a78873a1b7767a2469b656e79c8d49
+SHA256: ba5a338afead68820ac3a7a759fe937f8bdd2395e592deadb452bf4dabe16155
+Section: System
+Description: Standard Bearer
+Tag: role::hacker
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vexillarius
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vexillarius/icon/icon.png
+Name: vexillarius
+
 Package: libflex
 Version: 4.3.0
 Architecture: iphoneos-arm
