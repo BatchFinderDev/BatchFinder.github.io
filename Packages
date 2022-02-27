@@ -1,49 +1,4 @@
 Package: com.avalon.batchfinder
-Version: 6.1.1
-Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
-Filename: ./debs/com.avalon.batchfinder_6.1.1_iphoneos-arm.deb
-Size: 688770
-MD5sum: d3bbb5eb260dd425323f0baddaf316c2
-SHA1: 2e5b7cfd6fe18454251cd5497570eaa34e3cdcb5
-SHA256: 50bff70eadb2d44e0faa5e305cba07606febf90e49053c65409dec806db88479
-Section: Tweaks
-Description: An Instacart batch grabbing bot.
-Author: Avalon <batchfinderdev@gmail.com>
-Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
-Name: BatchFinder
-
-Package: com.avalon.batchfinder
-Version: 6.1.2
-Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
-Filename: ./debs/com.avalon.batchfinder_6.1.2_iphoneos-arm.deb
-Size: 694920
-MD5sum: a67fcbe20cd6a74632d6ebaa27c7ca64
-SHA1: 5a634182186d110fe98a44bb8c7790d1c175c935
-SHA256: 415234de81dcb46fe7f96a3d89c663086de1927a00b79294048246b69972faed
-Section: Tweaks
-Description: An Instacart batch grabbing bot.
-Author: Avalon <batchfinderdev@gmail.com>
-Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
-Name: BatchFinder
-
-Package: com.avalon.batchfinder
-Version: 6.1.3
-Architecture: iphoneos-arm
-Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
-Filename: ./debs/com.avalon.batchfinder_6.1.3_iphoneos-arm.deb
-Size: 694938
-MD5sum: fc4b64656312897001a0f9d409d32d65
-SHA1: 67523e3d2768752cb86d93f2ca27655d16b66e06
-SHA256: 4a342ac9584075d162d7a80ed071fb729e676c087d47cf90932a37c3e3116091
-Section: Tweaks
-Description: An Instacart batch grabbing bot.
-Author: Avalon <batchfinderdev@gmail.com>
-Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
-Name: BatchFinder
-
-Package: com.avalon.batchfinder
 Version: 6.1.4
 Architecture: iphoneos-arm
 Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
@@ -52,6 +7,21 @@ Size: 695276
 MD5sum: 94dacdacf5e03495df9d3ad429b9fa90
 SHA1: d4053896f2dda546c1d6ba9d14459147de92d608
 SHA256: 460895351a4fa439cba819899d3cc63af313c437905feb9d3cab13a9d623bfbf
+Section: Tweaks
+Description: An Instacart batch grabbing bot.
+Author: Avalon <batchfinderdev@gmail.com>
+Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
+Name: BatchFinder
+
+Package: com.avalon.batchfinder
+Version: 6.1.5
+Architecture: iphoneos-arm
+Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur, sudobf
+Filename: ./debs/com.avalon.batchfinder_6.1.5_iphoneos-arm.deb
+Size: 695460
+MD5sum: 9e6501a8be523f4ee7d33bd36bbf0d6e
+SHA1: d9f0fbd9116def8948765d496dbc0647537a63f8
+SHA256: e8d758995875664b7e402c953edfdfb263cb50d57bbc0020e933e1f5cf9f21ca
 Section: Tweaks
 Description: An Instacart batch grabbing bot.
 Author: Avalon <batchfinderdev@gmail.com>

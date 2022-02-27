@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.1.5</version>
+		<change>Bugfix.</change>
+	</changes>
+	<changes>
 		<version>6.1.4</version>
 		<change>Bugfix.</change>
 	</changes>
