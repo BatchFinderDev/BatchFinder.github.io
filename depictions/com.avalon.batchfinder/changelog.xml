@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.1.6</version>
+		<change>Optimized scanning speed and access.</change>
+	</changes>
+	<changes>
 		<version>6.1.5</version>
 		<change>Bugfix.</change>
 	</changes>
