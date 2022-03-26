@@ -1,7 +1,7 @@
 <package>
 	<id>com.avalon.batchfinder</id>
 	<name>BatchFinder</name>
-	<version>6.1.6</version>
+	<version>6.1.7</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -9,7 +9,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Optimized scanning speed and access.</change>
+		<change>Increased scanning speed. Added multi store filter.</change>
 	</changelog>
 	<links></links>
 </package>

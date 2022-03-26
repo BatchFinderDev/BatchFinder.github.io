@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.1.7</version>
+		<change>Increased scanning speed. Added multi store filter.</change>
+	</changes>
+	<changes>
 		<version>6.1.6</version>
 		<change>Optimized scanning speed and access.</change>
 	</changes>
