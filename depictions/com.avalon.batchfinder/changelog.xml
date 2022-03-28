@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.1.8</version>
+		<change>General improvements. Added explanation why BatchFinder ignored each batch it scans.</change>
+	</changes>
+	<changes>
 		<version>6.1.7</version>
 		<change>Increased scanning speed. Added multi store filter.</change>
 	</changes>
