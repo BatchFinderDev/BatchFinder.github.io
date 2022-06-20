@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.2.0</version>
+		<change>Dual integration method.</change>
+	</changes>
+	<changes>
 		<version>6.1.9</version>
 		<change>Minor bugfix and improvements.</change>
 	</changes>
