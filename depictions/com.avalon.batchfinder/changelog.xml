@@ -1,7 +1,11 @@
 <changelog>
 	<changes>
+		<version>6.3.0</version>
+		<change>Improved scanning speed and reliability.</change>
+	</changes>
+	<changes>
 		<version>6.2.0</version>
-		<change>Dual integration method.</change>
+		<change>Improved integration method.</change>
 	</changes>
 	<changes>
 		<version>6.1.9</version>
