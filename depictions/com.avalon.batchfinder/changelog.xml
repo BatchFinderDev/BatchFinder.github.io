@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>6.3.1</version>
+		<change>Fixed slow network bug.</change>
+	</changes>
+	<changes>
 		<version>6.3.0</version>
 		<change>Improved scanning speed and reliability.</change>
 	</changes>
