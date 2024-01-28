@@ -1,0 +1,15 @@
+<package>
+	<id>com.avalon.batchfinderlib</id>
+	<name>BatchFinder Lib</name>
+	<version>0.0.1</version>
+	<compatibility></compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>An extension of BatchFinder of jailbroken devices</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
