@@ -1,14 +1,14 @@
 Package: com.avalon.batchfinderext
-Version: 0.0.1-2+debug
+Version: 0.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: BatchFinder Dev
-Installed-Size: 220
+Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.avalon.batchfinderext_0.0.1_iphoneos-arm64.deb
-Size: 11536
-MD5sum: 181d8bc2f7aea7bfeff01ab7b22c51dc
-SHA1: ab608fb92f70cf4c7a99859c2d8f83920817ef96
-SHA256: d0e3bdec63d09bd3a9cb07870c6130082606c2abb81797cc2f743f6bf52bb4c2
+Size: 9414
+MD5sum: e761c18434a972d2effc515d5e4db574
+SHA1: 6793971cbeb46c9dceb30f2bff03461ea9864c39
+SHA256: ffc961fb6b59f284563dd2d48c44f758318e34c074025eb46b2b7843f402caf3
 Section: Tweaks
 Description: Extension of BatchFinder to run on jailbroken devices
 Author: BatchFinder Dev
